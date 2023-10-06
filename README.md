@@ -1,8 +1,5 @@
 # Concept-Simplified
-Contains the tasks alloted to me during my C++ internship
-
-
-Internship Projects
+Internship Projects :
 This repository contains my internship projects for the following applications:
 
 Number Guessing Game
