@@ -9,7 +9,7 @@ This repository contains my internship projects for the following applications:
 5) Movie Ticket Booking System
 
 Number Guessing Game :
-A simple number guessing game where the user tries to guess a random number between 1 and 100.
+A simple program that generates a random number and asks the user to guess it, also provides feedback on whether the guess is too high or too low until the user guesses the correct number.
 
 Simple Calculator :
 A simple calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division).
