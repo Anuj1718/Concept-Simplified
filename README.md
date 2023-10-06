@@ -2,11 +2,11 @@
 Internship Projects :
 This repository contains my internship projects for the following applications:
 
-Number Guessing Game
-Simple Calculator
-Student Grading System
-Word Count
-Movie Ticket Booking System
+1) Number Guessing Game
+2) Simple Calculator
+3) Grading System
+4) Word Count
+5) Movie Ticket Booking System
 
 Number Guessing Game :
 A simple number guessing game where the user tries to guess a random number between 1 and 100.
