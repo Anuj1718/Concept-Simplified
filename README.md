@@ -18,7 +18,8 @@ Student Grading System :
 A student grading system that allows users to input student grades and calculate their average grade. It calculates the average grade and displays it along with the highest and lowest grade.
 
 Word Count :
-A word count application that counts the number of words in a given text.
+A word count application that counts the number of words in a given text, it prompts the user to enter the file name and display the total word count.
+
 
 Movie Ticket Booking System :
 A movie ticket booking system that allows users to browse movies, select seats, and purchase tickets.
