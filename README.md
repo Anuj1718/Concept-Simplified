@@ -20,9 +20,8 @@ A student grading system that allows users to input student grades and calculate
 Word Count :
 A word count application that counts the number of words in a given text, it prompts the user to enter the file name and display the total word count.
 
-
 Movie Ticket Booking System :
-A movie ticket booking system that allows users to browse movies, select seats, and purchase tickets.
+A movie ticket booking system that allows users to browse movies, select seats, purchase tickets, make bookings and calculate the total cost.
 
 Installation and Usage :
 To install and use any of these projects, simply clone this repository and navigate to the directory for the project you want to use. Then, follow the instructions in the README.md file for that specific project.
