@@ -15,7 +15,7 @@ Simple Calculator :
 A simple calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division).
 
 Student Grading System :
-A student grading system that allows users to input student grades and calculate their average grade.
+A student grading system that allows users to input student grades and calculate their average grade. It calculates the average grade and displays it along with the highest and lowest grade.
 
 Word Count :
 A word count application that counts the number of words in a given text.
